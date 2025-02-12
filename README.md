@@ -78,7 +78,9 @@ The project utilizes the Groq API to generate meme-style summaries of research p
 3. **Supported Models:**
    - The project uses the `llama-3.3-70b-versatile` model from Groq for generating summaries.
    - For a list of available models, refer to the [Groq Models Documentation](https://console.groq.com/docs/models).
-
+  
+## Demo 
+https://github.com/user-attachments/assets/e04f1f11-c4d9-47e0-a83e-ddd525125f1b
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss your proposal.
